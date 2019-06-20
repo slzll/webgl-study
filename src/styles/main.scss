@@ -1,0 +1,11 @@
+@charset "UTF-8";
+@import "./reset.scss";
+
+html,
+body {
+    min-height: 100%;
+}
+
+#app {
+    height: auto;
+}
